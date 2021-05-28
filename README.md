@@ -2,13 +2,14 @@
 Machine Learning tic tac toe using linear neural network model.
 
 REQUIRED PACKAGES:
-numpy
 
-tensorflow (can be downloaded with by downloading keras)
+- numpy
 
-keras
+- tensorflow (can be downloaded with by downloading keras)
 
-matplotlib
+- keras
+
+- matplotlib
 
 
 You can train a model that can be used by a bot to choose moves with trainModel.py. 
